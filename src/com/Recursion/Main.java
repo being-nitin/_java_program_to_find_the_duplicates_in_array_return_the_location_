@@ -24,3 +24,4 @@ public class Main {
         }
     }
 // first loop will run from 0 till the length of the array.
+// inner loop will run from i+1 till length of an array
