@@ -23,4 +23,4 @@ public class Main {
         return new int[]{0,0};
         }
     }
-
+// first loop will run from 0 till the length of the array.
